@@ -24,7 +24,7 @@
 
 ## 🚀 Demo
 
-🔗 **[Live Demo](https://mehdi-dev-sudo.github.io/gradient-text-studio)** *(Update with your actual link)*
+🔗 **[Live Demo](https://mehdi-dev-sudo.github.io/Gradient-Text-Studio/)** *(Update with your actual link)*
 
 ### Screenshots
 ![Screenshot 1](demo.png)
